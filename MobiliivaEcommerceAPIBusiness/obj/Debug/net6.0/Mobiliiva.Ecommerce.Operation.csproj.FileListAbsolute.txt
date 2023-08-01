@@ -1,0 +1,15 @@
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\bin\Debug\net6.0\Mobiliiva.Ecommerce.Operation.deps.json
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\bin\Debug\net6.0\Mobiliiva.Ecommerce.Operation.dll
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\bin\Debug\net6.0\Mobiliiva.Ecommerce.Operation.pdb
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\bin\Debug\net6.0\Mobiliva.Ecommerce.Data.dll
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\bin\Debug\net6.0\Mobiliva.Ecommerce.Data.pdb
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\obj\Debug\net6.0\Mobiliiva.Ecommerce.Operation.csproj.AssemblyReference.cache
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\obj\Debug\net6.0\Mobiliiva.Ecommerce.Operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\obj\Debug\net6.0\Mobiliiva.Ecommerce.Operation.AssemblyInfoInputs.cache
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\obj\Debug\net6.0\Mobiliiva.Ecommerce.Operation.AssemblyInfo.cs
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\obj\Debug\net6.0\Mobiliiva.Ecommerce.Operation.csproj.CoreCompileInputs.cache
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\obj\Debug\net6.0\Mobiliiva.Ecommerce.Operation.csproj.CopyComplete
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\obj\Debug\net6.0\Mobiliiva.Ecommerce.Operation.dll
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\obj\Debug\net6.0\refint\Mobiliiva.Ecommerce.Operation.dll
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\obj\Debug\net6.0\Mobiliiva.Ecommerce.Operation.pdb
+D:\SimpraBootCamp-Net\Projects\MobiliivaEcommerceAPIBusiness\obj\Debug\net6.0\ref\Mobiliiva.Ecommerce.Operation.dll
